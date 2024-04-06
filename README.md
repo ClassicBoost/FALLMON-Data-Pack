@@ -23,16 +23,18 @@ This datapack is capatible with version 1.20.4 and later. May not work for older
 ### [Wiki Page](https://github.com/ClassicBoost/FALLMON-Data-Pack/wiki)<br>
 -----------------------------------------------
 # Credits
+![](https://cdn.discordapp.com/attachments/1175570073562398760/1226074929552818288/Screenshot_8463.png?ex=66237242&is=6610fd42&hm=e1a690817335a0d87e4b389e8c5be2f2631428d8b7eaf9ba5404b600d0e87b15&)<br>
+
 * [Classic1926](https://twitter.com/classic1926) (me!):
   * Made this data pack and FALLMON itself,
   * Gamedata and backend code
   * Wiki page
-* [Schmeckeldorf](https://twitter.com/Schmeckeld0rf):
+* [Schmeckeldorf](https://twitter.com/Schmeckeld0rf) (Geckossssssss):
   * Coder
   * Made the Pokémon data
   * Tester
   * Certified Joey
-* [DS Dude](https://twitter.com/DSDude3)
+* [DS Dude](https://twitter.com/DSDude3) (Gameguy271)
   * Tester
 * Nintendo - Pokémon
 * Bethesda / Interplay Entertainment - Fallout
