@@ -1,1 +1,0 @@
-give @s stick{display:{Name:'{"text":"Test Item","color":"green","italic":false}', Lore: ['{"text": "This is a test item for moves","color":"green"}']},HideFlags:255,Enchantments:[{id:'minecraft:fire_aspect',lvl:1}, {id:'minecraft:sharpness',lvl:99}]}

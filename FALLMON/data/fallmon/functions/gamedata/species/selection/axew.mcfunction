@@ -1,4 +1,0 @@
-team join axew @s
-
-give @s stick{display:{Name:'{"text":"Dragon Claw","color":"green","italic":false}', Lore: ['{"text": "You scratch the person","color":"green"}','{"text": "Idk what else to tell you","color":"green"}']},HideFlags:255,Enchantments:[{id:'minecraft:sharpness',lvl:2}, {id:'minecraft:knockback',lvl:3}, {id:'minecraft:vanishing_curse',lvl:1}]}
-give @s ghast_tear{display:{Name:'{"text":"Bite","color":"green","italic":false}', Lore: ['{"text": "OW DUDE WHY MAH FUCKING TAIL","color":"green"}']},HideFlags:255,Enchantments:[{id:'minecraft:sharpness',lvl:6}, {id:'minecraft:vanishing_curse',lvl:1}]}
