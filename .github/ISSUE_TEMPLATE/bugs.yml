@@ -1,5 +1,5 @@
 name: Bug report
-description: Report bugs with the data pack here. (DO NOT INCLUDE THE PRE-V2 OR 1.20.2 AS IT'S CONSIDERED DISCONTINUED)
+description: Report bugs with the data pack here. (DO NOT INCLUDE THE PRE-V2 OR PRE-1.21 AS IT'S CONSIDERED DISCONTINUED)
 labels: [bug]
 body:
   - type: textarea
