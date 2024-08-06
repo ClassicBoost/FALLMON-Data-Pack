@@ -1,0 +1,1 @@
+scoreboard players set survivalTime updates 120
