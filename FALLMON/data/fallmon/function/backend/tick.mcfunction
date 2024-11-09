@@ -9,8 +9,7 @@ scoreboard players add timeInWorld updates 1
 
 execute if score timeInWorld updates matches ..3 run scoreboard players set survivalistMode updates 0
 
-execute if entity @a[scores={type=..-1}] run scoreboard players set @a[scores={type=..-1}] thirst 200
-scoreboard players set @a[scores={type=..-1}] thirst 100
+scoreboard players set @a[scores={type=..-1}] thirst 200
 
 function fallmon:gamedata/radiation/radiation
 

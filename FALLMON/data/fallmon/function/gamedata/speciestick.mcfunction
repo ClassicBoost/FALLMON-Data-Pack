@@ -13,7 +13,8 @@ title @a[team=] actionbar {"text": "Choose a Pokemon (/function fallmon:starter)
 
 # types
 #  | 0 - Water | 1 - None/Pure Normal | 2 - Fire | 3 - Grass | 4 - Eletric | 5 - Flying | 6 - Poison
-scoreboard players set @a[team=] type 1
+scoreboard players set @a[team=!] type 1
+scoreboard players set @a[team=] type -1
 
 effect give @a[scores={type=2}] fire_resistance 5 0 true
 effect give @a[scores={type=0}] water_breathing 5 0 true
