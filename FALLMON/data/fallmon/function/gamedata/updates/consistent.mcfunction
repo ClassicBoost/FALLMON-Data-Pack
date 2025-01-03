@@ -7,8 +7,6 @@ effect give @a[scores={hp=..1,oxygen=..0}] blindness 2 0 true
 xp set @a[scores={hp=..0}] 0 points
 xp set @a[scores={hp=..0}] 0 levels
 
-time add 1
-
 execute if score survivalistMode updates matches 0 run enchant @a unbreaking 1
 execute if score survivalistMode updates matches 0 run enchant @a mending 1
 execute if score survivalistMode updates matches 0 run enchant @a piercing 4

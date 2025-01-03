@@ -15,3 +15,5 @@ execute as @a[scores={type=1..,thirst=101..}] run scoreboard players set @s[scor
 execute as @a at @s if block ~ ~ ~ water run scoreboard players add @s[scores={type=1..,thirst=..99}] thirst 1
 execute as @a at @s if block ~ ~ ~ water run scoreboard players add @s[scores={type=0,thirst=..149}] thirst 1
 execute as @a at @s if block ~ ~ ~ lava run scoreboard players remove @s[scores={type=0..,thirst=21..}] thirst 1
+
+time add 1
