@@ -36,7 +36,7 @@ This datapack is capatible with version 1.21 and later. May not work for older v
   * Tester
 * [Cehroaza](https://twitter.com/Cehroaza)
   * Tester
-* James Dawnshine <!--Please put link here-->
+* [James Dawnshine](https://bsky.app/profile/jamesdawnshine.bsky.social)
   * Tester
 * Nintendo - Pokémon
 * Bethesda / Interplay Entertainment - Fallout
